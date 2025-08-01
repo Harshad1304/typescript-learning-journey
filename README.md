@@ -13,11 +13,33 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - ✅ Understanding the `any` type and its implications
 - ✅ Type inference vs. explicit types
 
-### 🗂️ Folders Added Inside Basics-01:
+### 🗂️ Folders Added Inside 🗂️ Basics-01 Folder :
 - `TypeAnnotationBasic`
-- `FuntionParameterTypes`
+- `FuntionParameterAndReturnTypes`
 - `TypeAny`
 - `TypeInference`
 - `exercise/` – additional practice files
 
-Each file contains code samples and inline comments to explain each concept clearly.
+
+## 📅 Day 2 – Functions & Return Types
+
+### 📚 Topics Covered:
+- ✅ Function parameter type annotations
+- ✅ Default parameter values & type inference
+- ✅ Explicit return type annotations
+- ✅ Anonymous function parameter types (e.g., `.map()`)
+- ✅ Type inference in arrow functions
+- ✅ Return type `void` vs `never`
+
+### 📖 Files Added Inside 🗂️ Basics-01/FuntionParameterAndReturnTypes Folder:
+- `example03.ts`
+- `example04.ts`
+- `example05.ts`
+- `example06.ts`
+- `example07.ts`
+- `exercise/` – additional practice files
+---
+
+💬 Every file includes line-by-line comments in plain language to explain the code.
+
+📌 Summaries are added at the bottom of each code file to reinforce key takeaways.
