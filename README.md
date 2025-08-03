@@ -40,6 +40,26 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - `exercise/` – additional practice files
 ---
 
+## 📅 Day 3 – Object Types & Type Aliases
+
+### 📚 Topics Covered:
+- ✅ Type inference in objects
+- ✅ Function parameter annotation with object types
+- ✅ Object destructuring with type annotations
+- ✅ Optional properties (`?`)
+- ✅ Explicit object type return in functions
+- ✅ Extra property checks: inline vs variable objects
+- ✅ Using `type` alias for reusable structures
+
+### 📖 Files Added Inside 🗂️ Intermediate-01/ObjectTypes Folder:
+- `example01.ts`
+- `example02.ts`
+- `example03.ts`
+- `example04.ts`
+---
+
+---
+
 💬 Every file includes line-by-line comments in plain language to explain the code.
 
 📌 Summaries are added at the bottom of each code file to reinforce key takeaways.
