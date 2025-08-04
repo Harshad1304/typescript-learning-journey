@@ -20,6 +20,7 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - `TypeInference`
 - `exercise/` – additional practice files
 
+---
 
 ## 📅 Day 2 – Functions & Return Types
 
@@ -57,6 +58,24 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - `example03.ts`
 - `example04.ts`
 ---
+
+## 📅 Day 4 – Object Types, Optional & Readonly Properties, Intersection Types
+
+### 📚 Topics Covered:
+- ✅ Type aliases for complex and nested objects
+- ✅ Optional properties (`?`) and when to use them
+- ✅ `readonly` modifier for immutability
+- ✅ Function parameters with object types
+- ✅ Type checking benefits (like catching typos)
+- ✅ Reusable type aliases
+- ✅ Intersection types using `&`
+
+### 📖 Files Added Inside 🗂️ Intermediate-01/ObjectTypes Folder:
+- `example05.ts`
+- `example06.ts`
+- `example07.ts`
+- `example08.ts`
+- `🗂️ Exercise/objectsExercise` – practice problem for movie profit
 
 ---
 

@@ -58,6 +58,15 @@ function doublePoint(point:CoordinatePoint):CoordinatePoint{
 
 }
 
+// Type aliases can be created for variable as well like this 
+
+type age = number;
+//We created a type alias for variable above 
+
+const myAge:age = 25;
+// We are using age type which is number type just like we did it in above examples
+
+
 /*
 
 Summary:
