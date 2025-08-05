@@ -20,15 +20,22 @@ inactiveUsers.push(12); // Adding a number or any other value inside our array w
 
 //------------------------------------------------------------------
 
-const deletedUsers:number|string[] = []; // This means `deletedUsers` can either be:
-// - a number 
-// - OR an array of strings (e.g., ["Alice", "Bob"])
-// Since we are assigning an empty array ([]), TypeScript infers it as string[]
-// So now it thinks deletedUsers is a string[] and restricts it accordingly
+// This means deletedUsers can either be an array of numbers OR an array of strings,
+// but *not* an array that mixes numbers and strings together
+const deletedUsers1: number[] | string[] = [];
 
-deletedUsers.push("Hiren");
-deletedUsers.push(1); 
+// Because it's an empty array, TypeScript infers it as string[]
+// So pushing a number will cause an error:
+deletedUsers1.push("Hiren"); // ✅ OK
+deletedUsers1.push(1);       // ❌ Error: number not assignable to string
 
+
+// Correct way: allow both numbers and strings *within* the same array
+const deletedUsers2: (number | string)[] = [];
+
+// Now you can push both types safely:
+deletedUsers2.push("Hiren"); // ✅ OK
+deletedUsers2.push(1);       // ✅ OK
 
 
 const newUsers:(number|string)[] = []; // in this example we are using brackets so it means the newUsers array can be type of number or string it cannot take any other values than number or string so we can see there is no error in our push methods 
