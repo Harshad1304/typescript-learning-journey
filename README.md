@@ -62,6 +62,7 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 ## 📅 Day 4 – Object Types, Optional & Readonly Properties, Intersection Types
 
 ### 📚 Topics Covered:
+
 - ✅ Type aliases for complex and nested objects
 - ✅ Optional properties (`?`) and when to use them
 - ✅ `readonly` modifier for immutability
@@ -76,6 +77,26 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - `example07.ts`
 - `example08.ts`
 - `🗂️ Exercise/objectsExercise` – practice problem for movie profit
+
+---
+
+## 📅 Day 5 – Typed Arrays, Tuples & Union Arrays
+
+### 📚 Topics Covered:
+
+- ✅ Empty array types & `never[]` behavior
+- ✅ `string[]`, `number[]` & generic array syntax `Array<Type>`
+- ✅ Union arrays: `(number | string)[]` vs `number | string[]`
+- ✅ Tuples and fixed-length arrays
+- ✅ Type aliases for arrays of objects
+- ✅ Multi-dimensional arrays (e.g., `string[][]`)
+- ✅ `reduce()` to sum product prices with type-safe functions
+
+### 📖 Files Added Inside 🗂️ Intermediate-01/ArrayTypes Folder:
+- `example01.ts`
+- `example02.ts`
+- `example03.ts`
+- `🗂️ Exercise/arraysExercise.ts`
 
 ---
 
