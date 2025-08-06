@@ -100,6 +100,23 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 
 ---
 
+## 📅 Day 6 – Union Types, Literal Types & Custom Types
+
+### 📚 Topics Covered:
+- ✅ Union types (`number | string`)
+- ✅ Literal types to constrain possible values
+- ✅ Type narrowing inside functions
+- ✅ Discriminated unions
+- ✅ Type aliases for reusable custom types
+
+### 📖 Files Added Inside 🗂️ Advance-01/UnionTypes Folder:
+- `example01.ts`
+- `example02.ts`
+- `example03.ts`
+- `example04.ts`
+- `🗂️Exercise/unionsExercise.ts` 
+---
+
 💬 Every file includes line-by-line comments in plain language to explain the code.
 
 📌 Summaries are added at the bottom of each code file to reinforce key takeaways.
