@@ -117,6 +117,26 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - `🗂️Exercise/unionsExercise.ts` 
 ---
 
+## 📅 Day 7 – Tuples & Enums in TypeScript
+
+### 📚 Topics Covered:
+- ✅ Tuples for fixed-length, typed arrays
+- ✅ Differences between tuples and regular arrays
+- ✅ Runtime behaviors of `.push()`/`.pop()` on tuples
+- ✅ Enum basics and use cases
+- ✅ Custom string and numeric values in enums
+- ✅ Mixing string and number values in enums
+- ✅ `const enum` vs regular `enum` and code generation differences
+
+### 📁 Files Added Inside `Advance-01/TuplesAndEnums` Folder:
+- `example01.ts`
+- `example02.ts`
+- `example03.ts`
+- `example04.ts`
+- `example05.ts`
+- `example05.js` 
+
+--- 
 💬 Every file includes line-by-line comments in plain language to explain the code.
 
 📌 Summaries are added at the bottom of each code file to reinforce key takeaways.
