@@ -137,6 +137,31 @@ Welcome to my daily TypeScript learning log! This repository contains organized 
 - `example05.js` 
 
 --- 
+
+## 📅 Day 8 – Interfaces in TypeScript
+
+### 📚 Topics Covered:
+- ✅ Defining object shapes with `interface`
+- ✅ Difference between `type` alias and `interface`
+- ✅ Optional (`?`) and `readonly` properties
+- ✅ Defining methods in interfaces
+- ✅ Method parameters & type enforcement
+- ✅ Reopening interfaces (declaration merging)
+- ✅ Extending interfaces (`extends`)
+- ✅ Multiple inheritance in interfaces
+- ✅ Intersection types vs interface `extends`(Difference between type aliases and Interface type)
+
+### 📁 Files Added Inside `Advance-02/Interfaces` Folder:
+- `example01.ts`
+- `example02.ts`
+- `example03.ts`
+- `example04.ts`
+- `example05.ts`
+- `example06.ts`
+- `example07.ts`
+- `example08.ts`
+
+---
 💬 Every file includes line-by-line comments in plain language to explain the code.
 
 📌 Summaries are added at the bottom of each code file to reinforce key takeaways.
